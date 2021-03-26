@@ -1,0 +1,12 @@
+﻿bin/
+Refs/Assembly-CSharp.dll
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.vs/
+.idea/
+*.user
+/Synapse/Api/Events/SynapseEvents.cs
+Synapse.nuspec
+*.nupkg
