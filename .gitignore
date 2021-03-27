@@ -6,5 +6,5 @@ riderModule.iml
 .vs/
 .idea/
 *.user
-.nuspec
+*.nuspec
 *.nupkg
