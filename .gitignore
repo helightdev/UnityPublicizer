@@ -1,5 +1,4 @@
 ﻿bin/
-Refs/Assembly-CSharp.dll
 obj/
 /packages/
 riderModule.iml
@@ -7,6 +6,5 @@ riderModule.iml
 .vs/
 .idea/
 *.user
-/Synapse/Api/Events/SynapseEvents.cs
-Synapse.nuspec
+.nuspec
 *.nupkg

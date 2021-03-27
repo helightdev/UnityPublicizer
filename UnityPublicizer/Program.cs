@@ -65,6 +65,7 @@ namespace UnityPublicizer
             foreach (var def in types.SelectMany(t => t.Fields).Where(f => !f?.IsPublic ?? false))
                 def.Access = FieldAttributes.Public;
             md.Write("./Delivery/Assembly-CSharp-Publicized.dll");
+            
             Console.WriteLine("Wrote Assembly-CSharp-Publicized.dll to Delivery directory");
         }
 
